@@ -56,6 +56,8 @@ bpm-sync-root/
 |-- public/                 (Assets estáticos)
 |-- package.json            (Gerenciador Node.js)
 
+```
+---
 
 ## ⚙️ Configurações Técnicas de Áudio
 
